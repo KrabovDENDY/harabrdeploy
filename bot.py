@@ -7,6 +7,7 @@ import markups as m
 
 
 #main variables
+isRunning = 0
 
 bot = telebot.TeleBot(tok.TOKEN)
 task = Task()
